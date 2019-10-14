@@ -1,7 +1,7 @@
 Hello!
 This is a test paper
 
-این یک مقاله آزمایشی است.
+این یک مقاله آزمایشی است. این جمله در نسخه دوم اضافه شد.
 
 We are going to write a wonderful paper!
-
+This is a new sentence in the second revision.
